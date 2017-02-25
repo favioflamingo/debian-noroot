@@ -1,1 +1,10 @@
 
+[submodule "fakechroot"]
+	path = fakechroot
+	url = https://github.com/pelya/fakechroot
+[submodule "proot-src"]
+	path = proot-src
+	url = https://github.com/cedric-vincent/PRoot
+[submodule "android-shmem"]
+	path = android-shmem
+	url = https://github.com/pelya/android-shmem
